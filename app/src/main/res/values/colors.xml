@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#333</color>
+    <color name="colorPrimaryDark"></color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="lightGray">#E3E3E3</color>
+    <color name="darkGray">#999</color>
+    <color name="weak">#444</color>
+    <color name="medium">#ff8f00</color>
+    <color name="strong">#FCCA3F</color>
+    <color name="bulletproof">#00c853</color>
+</resources>
